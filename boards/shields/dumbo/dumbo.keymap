@@ -49,7 +49,7 @@
 // |                                 |NUM   |  SYM  |   |  SYM  |   NUM|
             bindings = <
 &none     &none        &kp HOME      &kp UP        &kp END         &kp PG_UP                             &kp STAR    &kp N7        &kp N8       &kp N9       &kp PLUS      &none
-&none     &kp LCTRL    &hm LALT LEFT &hm LGUI DOWN &hm LSHFT RIGHT &kp PG_DN                             &kp FSLH    &hm RSHFT N4  &hm RGUI N5  &hm RALT N6  &hm RCTRL sqt &none
+&none     &kp LCTRL    &hm LALT LEFT &hm LGUI DOWN &hm LSHFT RIGHT &kp PG_DN                             &kp FSLH    &hm RSHFT N4  &hm RGUI N5  &hm RALT N6  &hm RCTRL SQT &none
 &none     &kp LG(Z)    &kp LG(X)     &kp LG(C)     &none           &kp LG(V)                             &kp EQUAL   &kp N1        &kp N2       &kp N3       &kp MINUS     &none
                                      &kp K_MUTE    &kp DEL         &lt 1 SPACE   &lt 2 TAB   &lt 2 RET   &lt 1 BSPC  &kp N0        &kp C_PP
             >;
