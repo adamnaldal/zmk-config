@@ -66,7 +66,7 @@
 // |                                   |NUM   |  SYM  |   |  SYM  |   NUM|
             bindings = <
 &bt BT_CLR      &bt BT_SEL 0       &bt BT_SEL 1       &kp LA(N8)    &kp LA(N9)      &kp F1                                &kp STAR    &kp RS(N7)        &kp RS(N8)       &kp RS(N9)       &kp QMARK              &none
-&none           &hm LCTRL C_BRI_DN &hm LALT C_BRI_DN  &hm LGUI LBRC &hm LSHFT RBRC  &kp F2                                &kp FSLH    &hm RSHFT RS(N4)  &hm RGUI RS(N5)  &hm RALT RS(N6)  &hm RCTRL NON_US_HASH  &none
+&none           &kp C_BRI_DN       &kp C_BRI_DN      &hm LGUI LBRC &hm LSHFT RBRC  &kp F2                                &kp FSLH    &hm RSHFT RS(N4)  &hm RGUI RS(N5)  &hm RALT RS(N6)  &hm RCTRL NON_US_HASH  &none
 &studio_unlock  &kp BT_SEL 2       &kp BT_SEL 3       &kp LT        &kp GT          &kp F3                                &kp EQUAL   &kp RS(N1)        &kp RS(N2)       &kp RS(N3)       &kp UNDER              &none
                                                       &kp K_MUTE    &kp ESC         &lt 1 SPACE   &lt 2 TAB   &lt 2 RET   &lt 1 BSPC  &kp CAPS          &kp C_PP
             >;
